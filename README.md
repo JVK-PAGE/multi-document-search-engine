@@ -183,14 +183,3 @@ This architecture is the same used in real-world RAG systems.
 * SQLite
 * NumPy / Scikit-learn
 
----
-
-## 🤝 Contributing
-
-Pull requests are welcome!
-
----
-
-## 📄 License
-
-MIT License (or update based on your choice)
