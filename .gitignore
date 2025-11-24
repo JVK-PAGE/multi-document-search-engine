@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Model files
+models/*.index
+models/*.sqlite
+models/*.db
+
+# Data (keep small samples only)
+data/docs/*
+data/processed/*
+data/metadata.json
+
+# Cache
+.cache/
+huggingface/
